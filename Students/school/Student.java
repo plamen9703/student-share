@@ -1,5 +1,5 @@
 package school;
 public class Student {
-String name;
-double gpa;
+private String name;
+private double gpa;
 }
